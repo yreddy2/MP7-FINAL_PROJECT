@@ -1,0 +1,111 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\OtherCS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ee16092713da530c8435c24949a57e82\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\OtherCS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\bd3ab74c9a91c40615e6a4412eaf2a3c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\OtherCS\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\97e28125ff0e0a91d5e6b0fb8ffde236\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\OtherCS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\0e09c131e5a312d6760c9af96b6f8c47\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\OtherCS\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\7bac3fef5204195498cb5537de719f94\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\OtherCS\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\e8dbc750f3f519fd810afd0534947d53\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\OtherCS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f73096ac448091aacbe93553916b58ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\OtherCS\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\aac0f77d6280c1eaf066856662a830a2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\OtherCS\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\be251292afd6c70931280ce29393403c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\OtherCS\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e9f8ea41d08dca74429d5d0ee4a3f1e7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\OtherCS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\150593b15005f99f95334d9a8350098b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\OtherCS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\afaa6719a2b472ac51800c6c2b89ef4c\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml:7:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\OtherCS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\bd3ab74c9a91c40615e6a4412eaf2a3c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\OtherCS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\bd3ab74c9a91c40615e6a4412eaf2a3c\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml:13:9-40
+activity#example.com.paint.MainActivity
+ADDED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml:18:27-74
+activity#example.com.paint.Main2Activity
+ADDED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml:21:9-60
+	android:name
+		ADDED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml:21:19-48
+uses-sdk
+INJECTED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\OtherCS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ee16092713da530c8435c24949a57e82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\OtherCS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ee16092713da530c8435c24949a57e82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\OtherCS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\bd3ab74c9a91c40615e6a4412eaf2a3c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\OtherCS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\bd3ab74c9a91c40615e6a4412eaf2a3c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\OtherCS\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\97e28125ff0e0a91d5e6b0fb8ffde236\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\OtherCS\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\97e28125ff0e0a91d5e6b0fb8ffde236\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\OtherCS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\0e09c131e5a312d6760c9af96b6f8c47\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\OtherCS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\0e09c131e5a312d6760c9af96b6f8c47\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\OtherCS\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\7bac3fef5204195498cb5537de719f94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\OtherCS\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\7bac3fef5204195498cb5537de719f94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\OtherCS\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\e8dbc750f3f519fd810afd0534947d53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\OtherCS\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\e8dbc750f3f519fd810afd0534947d53\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\OtherCS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f73096ac448091aacbe93553916b58ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\OtherCS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\f73096ac448091aacbe93553916b58ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\OtherCS\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\aac0f77d6280c1eaf066856662a830a2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\OtherCS\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\aac0f77d6280c1eaf066856662a830a2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\OtherCS\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\be251292afd6c70931280ce29393403c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\OtherCS\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\be251292afd6c70931280ce29393403c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\OtherCS\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e9f8ea41d08dca74429d5d0ee4a3f1e7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\OtherCS\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e9f8ea41d08dca74429d5d0ee4a3f1e7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\OtherCS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\150593b15005f99f95334d9a8350098b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\OtherCS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\150593b15005f99f95334d9a8350098b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\OtherCS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\afaa6719a2b472ac51800c6c2b89ef4c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\OtherCS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\afaa6719a2b472ac51800c6c2b89ef4c\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\OtherCS\StudioProjects\Pictionary For One\app\src\main\AndroidManifest.xml
