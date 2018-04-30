@@ -144,7 +144,7 @@ public class MainActivity extends AppCompatActivity {
                     && !type2.equals("point") && !type2.equals("clip art") && !type2.equals("area")
                     && !type2.equals("drawing") && !type2.equals("product design") && !type2.equals("cartoon")
                     && !type2.equals("design") && !type2.equals("artwork") && !type2.equals("illustration")
-                    && !type2.equals("product design")&& !type2.equals("material")) {
+                    && !type2.equals("product design") && !type2.equals("material") && !type2.equals("art")) {
                 double type3 = type.get("topicality").getAsDouble() * 100;
                 int type4 = (int) type3;
                 type2 += "      " + Integer.toString(type4) + "%";
