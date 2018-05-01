@@ -22,7 +22,7 @@ public class Main2Activity extends AppCompatActivity {
         setContentView(R.layout.activity_main2);
         lst = (ListView) findViewById(R.id.listView);
         TextView textGuess = findViewById(R.id.textGuess);
-        textGuess.setText("GUESSES");
+        textGuess.setText("GUESSES:");
         Intent intent = getIntent();
         finalGuesses = intent.getStringArrayListExtra(MainActivity.EXTRA_LIST);
         guess = intent.getStringExtra(MainActivity.EXTRA_STRING);
