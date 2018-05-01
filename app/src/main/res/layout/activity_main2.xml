@@ -38,11 +38,12 @@
 
     <Button
         android:id="@+id/goBackButton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="107dp"
+        android:layout_height="59dp"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:onClick="goBackButton"
-        android:text="Try Again" />
+        android:text="Try Again"
+        android:textSize="15dp"/>
 
 </RelativeLayout>

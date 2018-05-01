@@ -2,24 +2,14 @@ package example.com.paint;
 
 import android.content.Intent;
 import android.graphics.Bitmap;
-import android.net.http.HttpResponseCache;
 import android.os.StrictMode;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.DisplayMetrics;
-import android.util.JsonReader;
 import android.util.Log;
 import android.view.View;
-import android.widget.ArrayAdapter;
-import android.widget.BaseAdapter;
 import android.widget.Button;
 import android.widget.ImageButton;
-import android.widget.ListView;
-import android.widget.SimpleAdapter;
-import android.widget.TextView;
-import android.widget.AdapterView;
-
-import com.google.gson.Gson;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
@@ -30,19 +20,10 @@ import java.io.IOException;
 import java.io.OutputStream;
 import java.io.OutputStreamWriter;
 import java.net.HttpURLConnection;
-import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLConnection;
 import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
 import java.util.Scanner;
-
-import example.com.paint.Main2Activity;
-
-import org.json.*;
-
-import javax.net.ssl.HttpsURLConnection;
 
 
 public class MainActivity extends AppCompatActivity {
@@ -65,8 +46,6 @@ public class MainActivity extends AppCompatActivity {
         DisplayMetrics metrics = new DisplayMetrics();
         getWindowManager().getDefaultDisplay().getMetrics(metrics);
         paintView.init(metrics);
-        /*lst = (ListView) findViewById(R.id.listView);
-        lst.setVisibility(View.INVISIBLE);*/
     }
     public void normalButton(View v) {
         ImageButton button = (ImageButton) v;
@@ -120,7 +99,6 @@ public class MainActivity extends AppCompatActivity {
         while (httpResponseScanner.hasNext()) {
             String line = httpResponseScanner.nextLine();
             resp += line;
-            //  alternatively, print the line of response
         }
         Log.w("please", resp);
         jsonParse(resp);
@@ -147,7 +125,7 @@ public class MainActivity extends AppCompatActivity {
                     && !type2.equals("product design") && !type2.equals("material") && !type2.equals("art") && !type2.equals("symmetry")) {
                 double type3 = type.get("topicality").getAsDouble() * 100;
                 int type4 = (int) type3;
-                type2 += "      " + Integer.toString(type4) + "%";
+                type2 += "     " + Integer.toString(type4) + "%";
                 finalGuesses.add(type2.toUpperCase());
             }
         }

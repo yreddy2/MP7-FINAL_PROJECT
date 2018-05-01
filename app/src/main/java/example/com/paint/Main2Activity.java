@@ -8,9 +8,6 @@ import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.ListView;
 import android.widget.TextView;
-
-import example.com.paint.MainActivity;
-
 import java.util.ArrayList;
 
 public class Main2Activity extends AppCompatActivity {
