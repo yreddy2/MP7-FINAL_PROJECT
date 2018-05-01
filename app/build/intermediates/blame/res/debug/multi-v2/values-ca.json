@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\OtherCS\\StudioProjects\\Pictionary For One\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ca\\values-ca.xml",
+            "outputFile": "C:\\Users\\Max\\AndroidStudioProjects\\MP7-FINAL_PROJECT\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ca\\values-ca.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\OtherCS\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\ee16092713da530c8435c24949a57e82\\res\\values-ca\\values-ca.xml",
+                    "source": "C:\\Users\\Max\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\de0853338cf02f9ea4f712113b7d1136\\res\\values-ca\\values-ca.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\OtherCS\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\aac0f77d6280c1eaf066856662a830a2\\res\\values-ca\\values-ca.xml",
+                    "source": "C:\\Users\\Max\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\3c089d7f7df01781990b067565159987\\res\\values-ca\\values-ca.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
