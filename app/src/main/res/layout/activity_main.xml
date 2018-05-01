@@ -48,10 +48,19 @@
         android:layout_width="106dp"
         android:layout_height="59dp"
         android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
+        android:layout_toEndOf="@+id/erase"
         android:onClick="doneButton"
         android:text="Done"
         android:textSize="20dp" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="224dp"
+        android:layout_height="55dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:gravity="center"
+        android:text="Your Drawing" />
 
 
 </RelativeLayout>

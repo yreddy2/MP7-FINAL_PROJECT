@@ -9,6 +9,7 @@ import android.util.DisplayMetrics;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.ImageButton;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
@@ -30,7 +31,11 @@ public class MainActivity extends AppCompatActivity {
 
     private PaintView paintView;
 
+    public static final String EXTRA_STRING = "EXTRA2";
+
     public static final String EXTRA_LIST = "EXTRA";
+
+    String guess = "";
 
     private Bitmap drawingMap;
 
@@ -111,6 +116,8 @@ public class MainActivity extends AppCompatActivity {
         JsonObject labels = jar.get(0).getAsJsonObject();
         JsonArray jar2 = labels.getAsJsonArray("labelAnnotations");
         finalGuesses = new ArrayList<>();
+        EditText editText = findViewById(R.id.editText);
+        guess = editText.getText().toString();
         for(int i = 0; i < jar2.size(); i++) {
             JsonObject type = jar2.get(i).getAsJsonObject();
             String type2 = type.get("description").getAsString();
@@ -131,6 +138,7 @@ public class MainActivity extends AppCompatActivity {
         }
         Intent intent = new Intent(MainActivity.this, Main2Activity.class);
         intent.putExtra(EXTRA_LIST, finalGuesses);
+        intent.putExtra(EXTRA_STRING, guess);
         startActivity(intent);
     }
 }
